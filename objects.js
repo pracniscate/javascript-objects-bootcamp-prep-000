@@ -1,8 +1,8 @@
 var playlist = { [bjork]: "lionsong", [solvent]: "loss for words" };
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist.slowdive = "alison";
-  playlist[]
+  playlist.Slowdive = "Alison";
+  playlist['My Bloody Valentine'] = "Sometimes";
   return playlist;
 }
 
