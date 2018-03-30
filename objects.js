@@ -1,5 +1,5 @@
 var playlist = { [bjork]: "lionsong", [solvent]: "loss for words" };
 
-function updatePlaylist(playlist, ) {
-  
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist.
 }
