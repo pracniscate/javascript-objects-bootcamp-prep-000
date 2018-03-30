@@ -1,4 +1,4 @@
-var playlist = { [bjork]: "lionsong", [solvent]: "loss for words" };
+var objects = { [bjork]: "lionsong", [solvent]: "loss for words" };
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist.Slowdive = "Alison";
