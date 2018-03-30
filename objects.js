@@ -1,1 +1,1 @@
-var playlist = { bjork: "lionsong", the avalanches: "frontier psychiatrist"};
+var playlist = { [bjork]: "lionsong", [fe]: "fef" };
